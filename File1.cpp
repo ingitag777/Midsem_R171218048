@@ -1,4 +1,4 @@
-
+// printing truth table
 #include<iostream>
 using namespace std; 
 

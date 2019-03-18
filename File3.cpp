@@ -70,6 +70,7 @@ class Internal_Exam:public Student
   } 
 };
 
+// end of class internal
 
   
   

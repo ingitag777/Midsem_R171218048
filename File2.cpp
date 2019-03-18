@@ -76,7 +76,7 @@ class shapes
 			}
 		}
 };
-		int main()
+		int main()    // this is the main function 
 		{
 			shapes s1;
 			s1.result();
