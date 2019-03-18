@@ -157,4 +157,13 @@ class result:public Internal_Exam,public External_Exams
   {
     result r;
  Internal_Exam a;
-    a.student_Details();    
+    a.student_Details(); 
+    r.get_marks();
+     r.get_marks1();
+   r.display_marks();
+  r.display_marks1();
+  r.calculate();
+   r.show();
+  return 0;
+}
+
