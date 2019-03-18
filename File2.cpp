@@ -80,5 +80,6 @@ class shapes
 		{
 			shapes s1;
 			s1.result();
+			return 0;
 		}
 

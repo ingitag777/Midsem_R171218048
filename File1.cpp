@@ -1,6 +1,18 @@
+
 #include<iostream>
-using namespace std;
-int main()
+using namespace std; 
+
+class Table
+
 {
-	return 0;
+
+public:
+ 
+	void t1()
+	{
+	
+		int x,y,z;
+
+ 		cout<<"X\tY\tZ\tXY+Z";
+
 }
